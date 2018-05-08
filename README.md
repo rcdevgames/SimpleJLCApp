@@ -1,3 +1,6 @@
+# Simple Sakura JLC Learn App
+
+## Try the app
 ```bash
 # Get the code
 git clone https://github.com/unity008/SimpleJLCApp.git
